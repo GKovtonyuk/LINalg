@@ -201,7 +201,7 @@ private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) 
 	textBox1->Text = "5";
 	textBox2->Text = "2";
 	textBox3->Text = "5,4";
-	richTextBox1->AppendText("Лабораторна робота #1"+"\r\n");
+	richTextBox1->AppendText("Лабораторна робота #1_Лінійні алгоритми"+"\r\n");
 }
 };
 }
